@@ -1,0 +1,7 @@
+# build
+/node_modules
+**/DevelopmentLogs/.vitepress/dist/
+**/DevelopmentLogs/.vitepress/cache/
+
+# macOS
+.DS_Store
