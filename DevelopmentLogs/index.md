@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Development logs"
-  text: "Development logs"
+  text: "这里我的开发经历，欢迎大家交流"
   tagline: My great project tagline
   actions:
     - theme: brand
